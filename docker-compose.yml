@@ -1,0 +1,4 @@
+shunting-yard:
+  build: .
+  volumes:
+    - .:/src
